@@ -1,4 +1,4 @@
 void main(){
-    printf("computer");
+    printf("bug1: computer");
 
 }
